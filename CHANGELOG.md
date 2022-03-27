@@ -1,3 +1,24 @@
+# [1.6.0](https://github.com/skovhus/pleo-spa-cicd/compare/v1.5.0...v1.6.0) (2022-03-27)
+
+
+### Features
+
+* try ([fd4230f](https://github.com/skovhus/pleo-spa-cicd/commit/fd4230f9595a4e95b512efae4428d25bf7ac32fe))
+
+# [1.5.0](https://github.com/skovhus/pleo-spa-cicd/compare/v1.4.0...v1.5.0) (2022-03-27)
+
+
+### Features
+
+* Use node ([90f49be](https://github.com/skovhus/pleo-spa-cicd/commit/90f49be4f5274af435b449f680528790b0f996fd))
+
+# [1.4.0](https://github.com/skovhus/pleo-spa-cicd/compare/v1.3.1...v1.4.0) (2022-03-27)
+
+
+### Features
+
+* Auto bump actions version ([a40a1c5](https://github.com/skovhus/pleo-spa-cicd/commit/a40a1c59fbdbb2c504623c55e89da0245d700bda))
+
 ## [1.3.1](https://github.com/pleo-oss/pleo-spa-cicd/compare/v1.3.0...v1.3.1) (2022-03-27)
 
 
