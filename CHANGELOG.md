@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/skovhus/pleo-spa-cicd/compare/v1.4.0...v1.5.0) (2022-03-27)
+
+
+### Features
+
+* Use node ([90f49be](https://github.com/skovhus/pleo-spa-cicd/commit/90f49be4f5274af435b449f680528790b0f996fd))
+
 # [1.4.0](https://github.com/skovhus/pleo-spa-cicd/compare/v1.3.1...v1.4.0) (2022-03-27)
 
 
