@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/skovhus/pleo-spa-cicd/compare/v1.3.1...v1.4.0) (2022-03-27)
+
+
+### Features
+
+* Auto bump actions version ([a40a1c5](https://github.com/skovhus/pleo-spa-cicd/commit/a40a1c59fbdbb2c504623c55e89da0245d700bda))
+
 ## [1.3.1](https://github.com/pleo-oss/pleo-spa-cicd/compare/v1.3.0...v1.3.1) (2022-03-27)
 
 
