@@ -23,7 +23,7 @@
       {
         "assets": [
           "CHANGELOG.md",
-          ".github"
+          ".github/workflows/*.yml"
         ]
       }
     ]
